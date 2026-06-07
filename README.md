@@ -4,6 +4,8 @@ Design your perfect atmosphere with customizable ambient sounds built for relaxa
 
 Whether you want soothing rain for sleep, cozy vibes for studying, calming forest sounds for meditation, or your own unique mix of ambience layers — SonoSpace lets you create personalized soundscapes in seconds.
 
+iOS Appstore: https://apps.apple.com/ca/app/sonospace/id6772158494
+
 ---
 
 ## Features
@@ -24,6 +26,17 @@ Perfect for:
 - Stress relief
 - Reading & deep focus
 - Creating cozy atmospheres
+
+---
+
+## Version History
+
+- 1.0: Initial release
+- 1.0.1: UX improvements and bug fixing
+  - Improved app startup load time
+  - Improved app icon (dark version)
+  - Improved preset touch behavior
+  - Fixed contact email
 
 ---
 
